@@ -1,0 +1,6 @@
+{
+  "name": "Hub IA - Diplomado IA Generativa",
+  "description": "Directorio interactivo multi-página de herramientas, recomendador IA y guía de flujos de trabajo para el Diplomado de IA Generativa: De cero a producto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
